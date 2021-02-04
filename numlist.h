@@ -4,7 +4,8 @@
 #include <cstdlib>
 #include <cmath>
 
-class NumList{
+class NumList
+{
     public:
         static const size_t CAPACITY = 100;
         
